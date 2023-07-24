@@ -1,4 +1,4 @@
 <?php
 
-echo "Olá, Azure Brasoftware! 221";
+echo "Olá, Azure Brasoftware!";
 ?>
